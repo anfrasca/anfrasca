@@ -6,7 +6,7 @@
 
 ### What I'm Building
 
-**[LLM Wiki](https://github.com/anfrasca/llm-wiki)** — A personal knowledge base where the LLM maintains everything. Inspired by Karpathy's LLM wiki essay, rebuilt with a three-layer architecture (human-owned sources, LLM-owned wiki, co-evolved schema), two-phase compile, approval routing, session capture hooks, and model-agnostic provider abstraction. The wiki grows from working sessions — every AI conversation automatically produces structured, cross-referenced knowledge articles. Built the initial version independently before Karpathy published his.
+**[Cortex](https://github.com/anfrasca/cortex)** — A personal knowledge system where the primary input is working sessions and internal thinking, not external articles and bookmarks. Inspired by Karpathy's LLM wiki essay, rebuilt with a three-layer architecture (human-owned sources, LLM-owned wiki, co-evolved schema), two-phase compile, approval routing, session capture hooks, and model-agnostic provider abstraction. The wiki grows from working sessions — every AI conversation automatically produces structured, cross-referenced knowledge articles. Built the initial version independently before Karpathy published his.
 
 **[PoolGuard](https://github.com/anfrasca/poolguard)** — An AI-powered pool safety monitor that watches my backyard camera and alerts my phone when someone is in or near the water unsupervised. Built with Claude Code, YOLO computer vision, and Unifi Protect. Shipped v1, watched it fail in the real world, diagnosed why, and redesigned v2 from the lessons learned. Running in production right now, protecting my family.
 
